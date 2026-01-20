@@ -1,0 +1,30 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Tue Nov 11 12:33:40 2025
+[*]
+[dumpfile] "/mnt/c/Users/julya/Downloads/SD - Prof Gabriela/contador_s/tb_contador.ghw"
+[dumpfile_mtime] "Tue Nov 11 12:30:35 2025"
+[dumpfile_size] 2036
+[savefile] "/mnt/c/Users/julya/Downloads/SD - Prof Gabriela/contador_s/sim_contador.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-26.229650 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.tb_contador.
+[sst_width] 276
+[signals_width] 86
+[sst_expanded] 1
+[sst_vpaned_height] 157
+@29
+top.tb_contador.sclk
+@28
+[color] 1
+top.tb_contador.spr
+[color] 5
+top.tb_contador.sreset
+@24
+[color] 3
+#{top.tb_contador.sq[2:0]} top.tb_contador.sq[2] top.tb_contador.sq[1] top.tb_contador.sq[0]
+[pattern_trace] 1
+[pattern_trace] 0
